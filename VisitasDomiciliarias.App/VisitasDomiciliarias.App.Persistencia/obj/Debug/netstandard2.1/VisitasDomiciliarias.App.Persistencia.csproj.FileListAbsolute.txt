@@ -1,0 +1,12 @@
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.csprojAssemblyReference.cache
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.AssemblyInfoInputs.cache
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.AssemblyInfo.cs
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\bin\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.deps.json
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\bin\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.dll
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\bin\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.pdb
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\bin\Debug\netstandard2.1\VisitasDomiciliarias.App.Dominio.dll
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\bin\Debug\netstandard2.1\VisitasDomiciliarias.App.Dominio.pdb
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.csproj.CopyComplete
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.dll
+C:\Veterinaria\VisitasDomiciliarias.App\VisitasDomiciliarias.App.Persistencia\obj\Debug\netstandard2.1\VisitasDomiciliarias.App.Persistencia.pdb
