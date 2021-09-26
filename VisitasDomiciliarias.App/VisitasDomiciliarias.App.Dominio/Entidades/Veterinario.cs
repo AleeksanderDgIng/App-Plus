@@ -1,8 +1,9 @@
+using System;
 namespace VisitasDomiciliarias.App.Dominio
-{   public class Veterinario:Persona
+{   public class Veterinario : Persona
     {
-        public int VeterinarioId {get;set;}
-        public string TarjetaProfesional {get ; set;}
+        public int Id {get;set;}
+        public string TarjProfesional {get ; set;}
           
     }
 }

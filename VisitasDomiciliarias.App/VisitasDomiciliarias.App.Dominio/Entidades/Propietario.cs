@@ -1,7 +1,8 @@
+using System;
 namespace VisitasDomiciliarias.App.Dominio
-{   public class Propietario:Persona
+{   public class Propietario : Persona
     {
-        public int PropietarioId {get; set;}
+        public int Id {get;set;}
         public string Direccion {get ; set;}
           
     }

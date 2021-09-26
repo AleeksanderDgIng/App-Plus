@@ -5792,6 +5792,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
+      "VisitasDomiciliarias.App.Dominio >= 1.0.0",
       "VisitasDomiciliarias.App.Persistencia >= 1.0.0"
     ]
   },
@@ -5819,6 +5820,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Veterinaria\\VisitasDomiciliarias.App\\VisitasDomiciliarias.App.Dominio\\VisitasDomiciliarias.App.Dominio.csproj": {
+              "projectPath": "C:\\Veterinaria\\VisitasDomiciliarias.App\\VisitasDomiciliarias.App.Dominio\\VisitasDomiciliarias.App.Dominio.csproj"
+            },
             "C:\\Veterinaria\\VisitasDomiciliarias.App\\VisitasDomiciliarias.App.Persistencia\\VisitasDomiciliarias.App.Persistencia.csproj": {
               "projectPath": "C:\\Veterinaria\\VisitasDomiciliarias.App\\VisitasDomiciliarias.App.Persistencia\\VisitasDomiciliarias.App.Persistencia.csproj"
             }

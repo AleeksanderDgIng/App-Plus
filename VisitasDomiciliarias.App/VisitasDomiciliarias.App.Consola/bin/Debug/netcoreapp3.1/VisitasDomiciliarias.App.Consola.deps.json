@@ -9,6 +9,7 @@
       "VisitasDomiciliarias.App.Consola/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
+          "VisitasDomiciliarias.App.Dominio": "1.0.0",
           "VisitasDomiciliarias.App.Persistencia": "1.0.0"
         },
         "runtime": {
